@@ -1,2 +1,2 @@
 # WC 3 level states
- Add 3 levels of shipping to Ugandan locations into WooCommerce
+ Add Ugandan shipping zones 3 levels deep into WooCommerce
