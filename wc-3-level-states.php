@@ -1,13 +1,13 @@
 <?php
 /**
  * Plugin Name: WC 3 Level States
- * Plugin URI: https://github.com/
+ * Plugin URI: https://github.com/r1z11/WC-3-level-states
  * Description: Add shipping zones 3 levels deep into WooCommerce
  * Version: 1.0.0
  * Author: Eric Sentongo
- * Author URI: https://github.com/
+ * Author URI: https://github.com/r1z11
  * Developer: ericsentongo
- * Developer URI: https://profiles.wordpress.org
+ * Developer URI: https://profiles.wordpress.org/ericsentongo
  * Text Domain: wc-3-level-states
  * Domain Path: /languages
  *
