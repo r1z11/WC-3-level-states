@@ -31,227 +31,227 @@ function wc_3_level_states($states)
     $cities = array(
         'UG-KLA-01' => array(
             'city' => 'Kyebando',
-            'division' => 'division name'
+            'division' => 'division'
         ),
         'UG-KLA-02' => array(
             'city' => 'Nansana',
-            'division' => 'division name'
+            'division' => 'division'
         ),
         'UG-KLA-03' => array(
             'city' => 'Kagoma',
-            'division' => 'division name'
+            'division' => 'division'
         ),
         'UG-KLA-04' => array(
             'city' => 'kawempe',
-            'division' => 'division name'
+            'division' => 'division'
         ),
         'UG-KLA-05' => array(
             'city' => 'Nabweru',
-            'division' => 'division name'
+            'division' => 'division'
         ),
         'UG-KLA-06' => array(
             'city' => 'Mpererwe',
-            'division' => 'division name'
+            'division' => 'division'
         ),
         'UG-KLA-07' => array(
             'city' => 'Bulambiro',
-            'division' => 'division name'
+            'division' => 'division'
         ),
         'UG-KLA-08' => array(
             'city' => 'Kulambiro',
-            'division' => 'division name'
+            'division' => 'division'
         ),
         'UG-KLA-09' => array(
             'city' => 'Buye',
-            'division' => 'division name'
+            'division' => 'division'
         ),
         'UG-KLA-10' => array(
             'city' => 'Najjera',
-            'division' => 'division name'
+            'division' => 'division'
         ),
         'UG-KLA-11' => array(
             'city' => 'Kitezi',
-            'division' => 'division name'
+            'division' => 'division'
         ),
         'UG-KLA-12' => array(
             'city' => 'Mbuya',
-            'division' => 'division name'
+            'division' => 'division'
         ),
         'UG-KLA-13' => array(
             'city' => 'Rubaga',
-            'division' => 'division name'
+            'division' => 'division'
         ),
         'UG-KLA-14' => array(
             'city' => 'Buwate',
-            'division' => 'division name'
+            'division' => 'division'
         ),
         'UG-KLA-15' => array(
             'city' => 'Kira',
-            'division' => 'division name'
+            'division' => 'division'
         ),
         'UG-KLA-16' => array(
             'city' => 'Bulindo',
-            'division' => 'division name'
+            'division' => 'division'
         ),
         'UG-KLA-17' => array(
             'city' => 'Nsasa',
-            'division' => 'division name'
+            'division' => 'division'
         ),
         'UG-KLA-18' => array(
             'city' => 'Namugongo',
-            'division' => 'division name'
+            'division' => 'division'
         ),
         'UG-KLA-19' => array(
             'city' => 'Bweyogerere',
-            'division' => 'division name'
+            'division' => 'division'
         ),
         'UG-KLA-20' => array(
             'city' => 'Kireka',
-            'division' => 'division name'
+            'division' => 'division'
         ),
         'UG-KLA-21' => array(
             'city' => 'Kamuli',
-            'division' => 'division name'
+            'division' => 'division'
         ),
         'UG-KLA-22' => array(
             'city' => 'Kyambogo',
-            'division' => 'division name'
+            'division' => 'division'
         ),
         'UG-KLA-23' => array(
             'city' => 'Nakawa',
-            'division' => 'division name'
+            'division' => 'division'
         ),
         'UG-KLA-24' => array(
             'city' => 'Namanve',
-            'division' => 'division name'
+            'division' => 'division'
         ),
         'UG-KLA-25' => array(
             'city' => 'Kirinya',
-            'division' => 'division name'
+            'division' => 'division'
         ),
         'UG-KLA-26' => array(
             'city' => 'Namugoona',
-            'division' => 'division name'
+            'division' => 'division'
         ),
         'UG-KLA-27' => array(
             'city' => 'Nakasero',
-            'division' => 'division name'
+            'division' => 'division'
         ),
         'UG-KLA-28' => array(
             'city' => 'Lugogo',
-            'division' => 'division name'
+            'division' => 'division'
         ),
         'UG-KLA-29' => array(
             'city' => 'Kasubi',
-            'division' => 'division name'
+            'division' => 'division'
         ),
         'UG-KLA-30' => array(
             'city' => 'Kitintale',
-            'division' => 'division name'
+            'division' => 'division'
         ),
         'UG-KLA-31' => array(
             'city' => 'Muyenga',
-            'division' => 'division name'
+            'division' => 'division'
         ),
         'UG-KLA-32' => array(
             'city' => 'Port Bell',
-            'division' => 'division name'
+            'division' => 'division'
         ),
         'UG-KLA-33' => array(
             'city' => 'Nsambya',
-            'division' => 'division name'
+            'division' => 'division'
         ),
         'UG-KLA-34' => array(
             'city' => 'Ggaba',
-            'division' => 'division name'
+            'division' => 'division'
         ),
         'UG-KLA-35' => array(
             'city' => 'Lukuli',
-            'division' => 'division name'
+            'division' => 'division'
         ),
         'UG-KLA-36' => array(
             'city' => 'Masajja',
-            'division' => 'division name'
+            'division' => 'division'
         ),
         'UG-KLA-37' => array(
             'city' => 'Munyonyo',
-            'division' => 'division name'
+            'division' => 'division'
         ),
         'UG-KLA-38' => array(
             'city' => 'Busabala',
-            'division' => 'division name'
+            'division' => 'division'
         ),
         'UG-KLA-39' => array(
             'city' => 'Namasuba',
-            'division' => 'division name'
+            'division' => 'division'
         ),
         'UG-KLA-40' => array(
             'city' => 'Bunamwaya',
-            'division' => 'division name'
+            'division' => 'division'
         ),
         'UG-KLA-41' => array(
             'city' => 'Mutungo',
-            'division' => 'division name'
+            'division' => 'division'
         ),
         'UG-KLA-42' => array(
             'city' => 'Nalukolongo',
-            'division' => 'division name'
+            'division' => 'division'
         ),
         'UG-KLA-43' => array(
             'city' => 'Kibuli',
-            'division' => 'division name'
+            'division' => 'division'
         ),
         'UG-KLA-144' => array(
             'city' => 'Bulwa',
-            'division' => 'division name'
+            'division' => 'division'
         ),
         'UG-KLA-45' => array(
             'city' => 'Lungujja',
-            'division' => 'division name'
+            'division' => 'division'
         ),
         'UG-KLA-46' => array(
             'city' => 'Mutundwe',
-            'division' => 'division name'
+            'division' => 'division'
         ),
         'UG-KLA-47' => array(
             'city' => 'Bukwenda',
-            'division' => 'division name'
+            'division' => 'division'
         ),
         'UG-KLA-48' => array(
             'city' => 'Busawula',
-            'division' => 'division name'
+            'division' => 'division'
         ),
         'UG-KLA-49' => array(
             'city' => 'Katale',
-            'division' => 'division name'
+            'division' => 'division'
         ),
         'UG-KLA-50' => array(
             'city' => 'Seguku',
-            'division' => 'division name'
+            'division' => 'division'
         ),
         'UG-KLA-51' => array(
             'city' => 'Zana',
-            'division' => 'division name'
+            'division' => 'division'
         ),
         'UG-KLA-52' => array(
             'city' => 'Luzira',
-            'division' => 'division name'
+            'division' => 'division'
         ),
         'UG-KLA-53' => array(
             'city' => 'Mengo',
-            'division' => 'division name'
+            'division' => 'division'
         ),
         'UG-KLA-54' => array(
             'city' => 'Mpanga',
-            'division' => 'division name'
+            'division' => 'division'
         ),
         'UG-KLA-55' => array(
             'city' => 'Mulago',
-            'division' => 'division name'
+            'division' => 'division'
         ),
         'UG-KLA-56' => array(
             'city' => 'namirembe',
-            'division' => 'division name'
+            'division' => 'division'
         ),
     );
     // Populate states array
