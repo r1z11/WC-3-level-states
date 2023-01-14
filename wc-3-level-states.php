@@ -34,11 +34,12 @@ function wc_3_level_states($states)
     $map = array();
     // Populate states array
     global $cities;
+    print_r('CITIES' . $cities);
     foreach ($cities as $city => $city_value) {
-        $map[$city] = $city_value['city'] . ', ' . $city_value['town'];
+        $map[$city] = $city_value['city'] . ', ' . $city_value['town'] . ', ' . $city_value['division'];
     }
     // Basic structure of states array
     $states['UG'] = $map;
-    print_r($states);
+    print_r('STATES' . $states);
     return $states;
 }
